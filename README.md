@@ -1,16 +1,24 @@
-### Hi there 👋
+# Welcome!
 
-<!--
-**AlanGabriL/AlanGabriL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
+## Meu nome !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+:computer: Aprendendo Front e Back!
+
+:house_with_garden: Sou Brasileiro.
+
+:books: Usando Node e HTLM e CSS
+
+:outbox_tray: **Objetivo** : Vender LandingPages e Serviços Web
+
+ 
+
+## GitHub Config
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanGabriL&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanGabriL&layout=compact)](https://github.com/AalnGabriL/github-readme-stats)
+
