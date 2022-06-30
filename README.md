@@ -11,4 +11,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanGabriL&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanGabriL&layout=compact)](https://github.com/AalnGabri/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanGabriL&theme=dracula&layout=compact)](https://github.com/AalnGabri/github-readme-stats)
