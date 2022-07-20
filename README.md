@@ -3,8 +3,11 @@
 ## Meu nome é _Alan Gabriel_!
  
 :computer: Aprendendo Front e Back!
+
 :house_with_garden: Sou Brasileiro.
+
 :books: Usando Node e HTLM e CSS
+
 :outbox_tray: **Objetivo** : Vender LandingPages e Serviços Web
  
 ## GitHub Config
