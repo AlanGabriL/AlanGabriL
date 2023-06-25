@@ -2,11 +2,11 @@
  
 ## Meu nome é _Alan Gabriel_!
  
-:computer: Aprendendo Front e Back!
+:computer: Aprendendo Vue.js e Backend
 
 :house_with_garden: Sou Brasileiro.
 
-:books: Usando Node e HTLM e CSS
+:books: Usando Vue.js, Js e Firebase
 
 :outbox_tray: **Objetivo** : Vender LandingPages e Serviços Web
  
