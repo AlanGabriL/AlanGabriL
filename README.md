@@ -2,13 +2,9 @@
  
 ## Meu nome é _Alan Gabriel_!
  
-:computer: Aprendendo Vue.js e Backend
+Atualmente estou trabalhando com projetos particulares, aprendendo a desenvlover e adquirir técnicas e métodos para programação front. As feeramentas que estou utilizando é o Vue.js, framework para estrutura de WebSites, muito intuitiva e de fácil compreensão. Também faço personalizações com Css. Como sou Desenvolvedor Junior, tenho muito o que melhorar e preciso sempre praticar e adquirir dicas e conselhos de programação, métodos de trabalhar, técnicas de foco e outros pontos.
 
-:house_with_garden: Sou Brasileiro.
-
-:books: Usando Vue.js, Js e Firebase
-
-:outbox_tray: **Objetivo** : Vender LandingPages e Serviços Web
+Tenho interesse nesta área front de sistemas Web, mas já trabalhei com programas No-code e low-code rasamente, já trabalhei com Figma, Canva, Filmora 11(Editor de vídeos) e outras ferramentas relacionadas a TI
  
 ## GitHub Config
 
